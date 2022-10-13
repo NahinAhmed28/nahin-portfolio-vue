@@ -15,7 +15,8 @@ import MainComponent from "@/pageComponents/Main";
 import FooterComponent from "@/pageComponents/Footer";
 export default {
   name: "WelcomePage",
-  components: {FooterComponent, MainComponent, HeroComponent, HeaderComponent}
+  components: {FooterComponent, MainComponent, HeroComponent, HeaderComponent},
+
 }
 </script>
 
