@@ -660,12 +660,20 @@
 </template>
 
 <script>
-import { loadScript } from "vue-plugin-load-script";
-loadScript("assets/vendor/purecounter/purecounter_vanilla.js")
+
+import script1 from "../../public/assets/vendor/purecounter/purecounter_vanilla.js"
+import script2 from "../../public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"
+import script3 from "../../public/assets/vendor/glightbox/js/glightbox.min.js"
+import script4 from "../../public/assets/vendor/swiper/swiper-bundle.min.js"
+import script5 from "../../public/assets/vendor/typed.js/typed.min.js"
+
 
 export default {
 
-  name: "MainComponent"
+  name: "MainComponent",
+  mounted() {
+    script1,script2,script3,script4,script5
+  }
 }
 </script>
 
