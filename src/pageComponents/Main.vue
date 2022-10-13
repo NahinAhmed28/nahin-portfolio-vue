@@ -12,7 +12,7 @@
                   <div class="row">
                     <div class="col-sm-6 col-md-5">
                       <div class="about-img">
-                        <img src="assets/img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                        <img src="../../public/assets/img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
                       </div>
                     </div>
                     <div class="col-sm-6 col-md-7">
@@ -259,9 +259,9 @@
         <div class="row">
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="../../public/assets/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-1.jpg" alt="" class="img-fluid">
+                  <img src="../../public/assets/img/work-1.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -283,9 +283,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="../../public/assets/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-2.jpg" alt="" class="img-fluid">
+                  <img src="../../public/assets/img/work-2.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -307,9 +307,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="../../public/assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-3.jpg" alt="" class="img-fluid">
+                  <img src="../../public/assets/img/work-3.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -331,9 +331,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="../../public/assets/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-4.jpg" alt="" class="img-fluid">
+                  <img src="../../public/assets/img/work-4.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -355,9 +355,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="../../public/assets/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-5.jpg" alt="" class="img-fluid">
+                  <img src="../../public/assets/img/work-5.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -379,9 +379,9 @@
           </div>
           <div class="col-md-4">
             <div class="work-box">
-              <a href="assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+              <a href="../../public/assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
                 <div class="work-img">
-                  <img src="assets/img/work-6.jpg" alt="" class="img-fluid">
+                  <img src="../../public/assets/img/work-6.jpg" alt="" class="img-fluid">
                 </div>
               </a>
               <div class="work-content">
@@ -418,7 +418,7 @@
                 <div class="swiper-slide">
                   <div class="testimonial-box">
                     <div class="author-test">
-                      <img src="assets/img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                      <img src="../../public/assets/img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
                       <span class="author">Xavi Alonso</span>
                     </div>
                     <div class="content-test">
@@ -433,7 +433,7 @@
                 <div class="swiper-slide">
                   <div class="testimonial-box">
                     <div class="author-test">
-                      <img src="assets/img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
+                      <img src="../../public/assets/img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
                       <span class="author">Marta Socrate</span>
                     </div>
                     <div class="content-test">
@@ -476,7 +476,7 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="blog-single.html"><img src="assets/img/post-1.jpg" alt="" class="img-fluid"></a>
+                <a href="blog-single.html"><img src="../../public/assets/img/post-1.jpg" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -494,7 +494,7 @@
               <div class="card-footer">
                 <div class="post-author">
                   <a href="#">
-                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <img src="../../public/assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Morgan Freeman</span>
                   </a>
                 </div>
@@ -507,7 +507,7 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="blog-single.html"><img src="assets/img/post-2.jpg" alt="" class="img-fluid"></a>
+                <a href="blog-single.html"><img src="../../public/assets/img/post-2.jpg" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -525,7 +525,7 @@
               <div class="card-footer">
                 <div class="post-author">
                   <a href="#">
-                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <img src="../../public/assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Morgan Freeman</span>
                   </a>
                 </div>
@@ -538,7 +538,7 @@
           <div class="col-md-4">
             <div class="card card-blog">
               <div class="card-img">
-                <a href="blog-single.html"><img src="assets/img/post-3.jpg" alt="" class="img-fluid"></a>
+                <a href="blog-single.html"><img src="../../public/assets/img/post-3.jpg" alt="" class="img-fluid"></a>
               </div>
               <div class="card-body">
                 <div class="card-category-box">
@@ -556,7 +556,7 @@
               <div class="card-footer">
                 <div class="post-author">
                   <a href="#">
-                    <img src="assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                    <img src="../../public/assets/img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
                     <span class="author">Morgan Freeman</span>
                   </a>
                 </div>
