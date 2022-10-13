@@ -582,7 +582,7 @@
                   <div class="col-md-6">
                     <div class="title-box-2">
                       <h5 class="title-left">
-                        Send Message Us
+                        Send Message to Me
                       </h5>
                     </div>
                     <div>
@@ -634,9 +634,9 @@
                         mollitia inventore?
                       </p>
                       <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                        <li><span class="bi bi-phone"></span> (617) 557-0089</li>
-                        <li><span class="bi bi-envelope"></span> contact@example.com</li>
+                        <li><span class="bi bi-geo-alt"></span> Mirpur, East-Kazipara, Dhaka,1216</li>
+                        <li><span class="bi bi-phone"></span> +8801521332113</li>
+                        <li><span class="bi bi-envelope"></span> nahin.ahmed28@gmail.com</li>
                       </ul>
                     </div>
                     <div class="socials">
