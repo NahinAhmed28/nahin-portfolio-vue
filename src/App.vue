@@ -20,9 +20,9 @@ export default {
   //     { type: 'text/javascript', src: '../public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js', body: true },
   //     { type: 'text/javascript', src: '../public/assets/vendor/glightbox/js/glightbox.min.js', body: true },
   //     { type: 'text/javascript', src: '../public/assets/vendor/swiper/swiper-bundle.min.js', body: true },
-  //     { type: 'text/javascript', src: '../public/assets/vendor/typed.js/typed.min.js', body: true },
+  //     { type: 'typescript', src: '../public/assets/vendor/typed.js/typed.min.js', body: true },
   //     { type: 'text/javascript', src: '../public/assets/js/main.js', body: true },
-
+  //
 
   // { src: '../public/assets/vendor/purecounter/purecounter_vanilla.js', body: true },
   //  { src: '../public/assets/vendor/bootstrap/js/bootstrap.bundle.min.js', body: true },
