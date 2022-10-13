@@ -16,6 +16,8 @@
 </template>
 
 <script>
+
+
 export default {
   name: "HeroComponent"
 }
