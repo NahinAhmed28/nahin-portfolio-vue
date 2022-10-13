@@ -660,6 +660,9 @@
 </template>
 
 <script>
+import { loadScript } from "vue-plugin-load-script";
+loadScript("assets/vendor/purecounter/purecounter_vanilla.js")
+
 export default {
 
   name: "MainComponent"
