@@ -4,6 +4,7 @@
     <HeroComponent/>
     <AboutComponent/>
     <ServicesComponent/>
+    <CounterComponent/>
     <PortfolioComponent/>
     <BlogComponent/>
     <MainComponent/>
@@ -20,9 +21,11 @@ import AboutComponent from "@/pageComponents/About";
 import ServicesComponent from "@/pageComponents/Services";
 import PortfolioComponent from "@/pageComponents/Portfolio";
 import BlogComponent from "@/pageComponents/Blog";
+import CounterComponent from "@/pageComponents/Counter";
 export default {
   name: "WelcomePage",
   components: {
+    CounterComponent,
     BlogComponent,
     PortfolioComponent,
     ServicesComponent, AboutComponent, FooterComponent, MainComponent, HeroComponent, HeaderComponent},
