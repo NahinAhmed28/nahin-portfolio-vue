@@ -20,7 +20,7 @@
             <span class="cursor" :class="{ typing: typeStatus }">&nbsp;</span>
           </p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
-          <p class="pt-3"><a class="btn btn-secondary btn js-scroll px-4" href="#about" role="button">Learn More</a></p>
+          <p class="pt-3"><a class="btn btn-secondary btn js-scroll px-4" target="#about" role="button">Learn More</a></p>
         </div>
       </div>
     </div>
