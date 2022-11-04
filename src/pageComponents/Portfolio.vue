@@ -19,7 +19,7 @@
       <div class="row">
         <div class="col-md-4">
           <div class="work-box">
-            <a href="../../public/assets/img/work-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+            <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
                 <img src="../../public/assets/img/work-1.jpg" alt="" class="img-fluid">
               </div>
@@ -43,7 +43,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="../../public/assets/img/work-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+            <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
                 <img src="../../public/assets/img/work-2.jpg" alt="" class="img-fluid">
               </div>
@@ -67,7 +67,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="../../public/assets/img/work-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+            <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
                 <img src="../../public/assets/img/work-3.jpg" alt="" class="img-fluid">
               </div>
@@ -91,7 +91,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="../../public/assets/img/work-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+            <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
                 <img src="../../public/assets/img/work-4.jpg" alt="" class="img-fluid">
               </div>
@@ -115,7 +115,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="../../public/assets/img/work-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+            <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
                 <img src="../../public/assets/img/work-5.jpg" alt="" class="img-fluid">
               </div>
@@ -139,7 +139,7 @@
         </div>
         <div class="col-md-4">
           <div class="work-box">
-            <a href="../../public/assets/img/work-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox">
+            <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
                 <img src="../../public/assets/img/work-6.jpg" alt="" class="img-fluid">
               </div>
