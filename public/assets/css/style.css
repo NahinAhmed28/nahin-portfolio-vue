@@ -1501,15 +1501,18 @@ footer .credits a {
   padding: 10px;
   text-align: center;
   text-transform: uppercase;
-  animation: fadeIn 2.5s linear;
+  animation: wipe-enter 5s linear;
   animation-fill-mode: both;
   border-radius: 10px;
+
 }
 
 .customli:hover{
   background-color: #7278ef;
   color: white;
   cursor: pointer;
+  width: 90%;
+  left: 8%;
 }
 @-webkit-keyframes fadeIn {
   0% {
