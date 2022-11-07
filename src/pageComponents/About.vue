@@ -16,9 +16,9 @@
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
                       <p><span class="title-s">Name: </span> <span>Ahmed Nur-A-Jalal</span></p>
-                      <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
                       <p><span class="title-s">Email: </span> <span>nahin.ahmed28@gmail.com</span></p>
                       <p><span class="title-s">Phone: </span> <span>+8801521332113</span></p>
+                      <p><span class="title-s">Address: </span> <span>East-Kazipara, Mirpur, Dhaka</span></p>
                     </div>
                   </div>
                 </div>
@@ -29,15 +29,17 @@
                     </h5>
                   </div>
 
-                  <ul class="customul">
-                    <li class="customli">Laravel </li>
-                    <li class="customli">PHP </li>
+                  <ul class="customul ">
+                    <div class="square-animation">
+                    <li class="customli ">Laravel </li>
+                    <li class="customli ">PHP </li>
                     <li class="customli">JAVASCRIPT </li>
                     <li class="customli">Vue </li>
                     <li class="customli">Technical Documentation</li>
                     <li class="customli">Android Development</li>
                     <li class="customli">Ui/UX Design</li>
                     <li class="customli">Machine Learning</li>
+                    </div>
                   </ul>
 
                 </div>

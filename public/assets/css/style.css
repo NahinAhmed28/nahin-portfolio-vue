@@ -1501,9 +1501,10 @@ footer .credits a {
   padding: 10px;
   text-align: center;
   text-transform: uppercase;
-  animation: wipe-enter 5s linear;
+  animation: fadeIn 5s linear;
   animation-fill-mode: both;
   border-radius: 10px;
+  width: 80%;
 
 }
 
@@ -1511,8 +1512,7 @@ footer .credits a {
   background-color: #7278ef;
   color: white;
   cursor: pointer;
-  width: 90%;
-  left: 8%;
+  width: 100%;
 }
 @-webkit-keyframes fadeIn {
   0% {
