@@ -2,7 +2,7 @@
   <!-- ======= Hero Section ======= -->
 
 
-<!--  <div  class="hero route bg-image" :style="{'background-image': 'url(/assets/img/hero-bg2.jpg)'}">-->
+  <div  class="hero route bg-image" :style="{'background-image': 'url(/assets/img/hero-bg2.jpg)'}">
     <div class="overlay-itro"></div>
     <div class="hero-content display-table">
       <div class="table-cell">
@@ -24,7 +24,7 @@
         </div>
       </div>
     </div>
-<!--  </div>-->
+  </div>
   <!-- End Hero Section -->
 </template>
 

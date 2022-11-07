@@ -66,10 +66,10 @@ import gsap from 'gsap'
 export default {
   name: "CounterComponent",
   created(n) {
-      gsap.to(this, {duration: 5, tweened: Number(n) || 121}),
-      gsap.to(this, {duration: 5, tweened1: Number(n) || 281}),
-      gsap.to(this, {duration: 5, tweened2: Number(n) || 356}),
-      gsap.to(this, {duration: 5, tweened3: Number(n) || 331})
+      gsap.to(this, {duration: 15, tweened: Number(n) || 0}),
+      gsap.to(this, {duration: 15, tweened1: Number(n) || 10}),
+      gsap.to(this, {duration: 15, tweened2: Number(n) || 2}),
+      gsap.to(this, {duration: 15, tweened3: Number(n) || 15})
   },
   data() {
     return {
