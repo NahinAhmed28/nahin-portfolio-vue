@@ -22,11 +22,9 @@
               <span class="ico-circle"><i class="bi bi-briefcase"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Web Design</h2>
+              <h2 class="s-title">Back End Web Development</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+              Laravel Framework for php based backend web development.
               </p>
             </div>
           </div>
@@ -37,11 +35,9 @@
               <span class="ico-circle"><i class="bi bi-card-checklist"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Web Development</h2>
+              <h2 class="s-title">Front End Web Development and Design</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+               Vue.js ,vue-bootstrap, bootstrap and custom CSS for front end responsive and interactive web pages design and development
               </p>
             </div>
           </div>
@@ -52,11 +48,9 @@
               <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Photography</h2>
+              <h2 class="s-title">App Development</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+               Frontend Layout Design with XMl and Basic backend development with Native Java. Basic Firebase,SQlite and API injection.
               </p>
             </div>
           </div>
@@ -67,11 +61,9 @@
               <span class="ico-circle"><i class="bi bi-binoculars"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Responsive Design</h2>
+              <h2 class="s-title">Ui/UX Design</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                Wireframming and UI/UX Design with ADOBE XD and basic photoshop with Adobe photoshop and Adobe Lightroom
               </p>
             </div>
           </div>
@@ -82,11 +74,9 @@
               <span class="ico-circle"><i class="bi bi-brightness-high"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Graphic Design</h2>
+              <h2 class="s-title">Machine Learning</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+                Image Processing and Natural Language processing.
               </p>
             </div>
           </div>
@@ -97,11 +87,9 @@
               <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Marketing Services</h2>
+              <h2 class="s-title">Documentation</h2>
               <p class="s-description text-center">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                provident vitae! Magni
-                tempora perferendis eum non provident.
+               Prominent skill on Technical Documentation writing.
               </p>
             </div>
           </div>

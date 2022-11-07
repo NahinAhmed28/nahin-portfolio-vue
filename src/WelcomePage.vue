@@ -28,7 +28,12 @@ export default {
     CounterComponent,
     BlogComponent,
     PortfolioComponent,
-    ServicesComponent, AboutComponent, FooterComponent, MainComponent, HeroComponent, HeaderComponent},
+    ServicesComponent,
+    AboutComponent,
+    FooterComponent,
+    MainComponent,
+    HeroComponent,
+    HeaderComponent},
 
 }
 </script>

@@ -180,12 +180,11 @@
                 <div class="testimonial-box">
                   <div class="author-test">
                     <img src="../../public/assets/img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
-                    <span class="author">Xavi Alonso</span>
+                    <span class="author">Nahin Ahmed</span>
                   </div>
                   <div class="content-test">
                     <p class="description lead">
-                      Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet,
-                      consectetur adipiscing elit.
+                    Junior Laravel and Vue.js web developer .I Have basic knowledge on android app development with native java and I am a data science enthusiast.
                     </p>
                   </div>
                 </div>
