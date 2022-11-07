@@ -36,9 +36,25 @@
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
-                  <span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+                  <span>JAVASCRIPT</span> <span class="pull-right">50%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <span>Vue Js</span> <span class="pull-right">90%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <span>Technical Documentation</span> <span class="pull-right">90%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <span>Android Development</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                  </div>
+                  <span>Ui/UX Design</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
                   </div>
                 </div>
               </div>
@@ -46,25 +62,45 @@
                 <div class="about-me pt-4 pt-md-0">
                   <div class="title-box-2">
                     <h5 class="title-left">
-                      About me
+                      Experience
                     </h5>
                   </div>
                   <p class="lead">
-                    Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                    imperdiet et, porttitor
-                    at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
-                    porttitor accumsan tincidunt.
+                    October,2021–Current - (1 year) <br>
+                    Junior Web Developer <br>
+                    • Multimedia Communication and Company (MCC) Ltd
                   </p>
                   <p class="lead">
-                    Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis
-                    porttitor volutpat. Vestibulum
-                    ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.
+                    April, 2021–October, 2021 - (6 months)<br>
+                    Web Frontend- Vue.js Developer<br>
+                    • Techtrioz Solution
                   </p>
                   <p class="lead">
-                    Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
-                    Nulla porttitor accumsan
-                    tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+                    October, 2020 –December, 2020 - (3 months)<br>
+                    Machine Learning Intern<br>
+                    • Deepsight AI
                   </p>
+                  <div class="title-box-2">
+                  <h5 class="title-left">
+                    Education
+                  </h5>
+                  </div>
+                  <p class="lead">
+                   BSc in CSE<br>
+                    -Daffodil International University<br>
+                    •2020
+                  </p>
+                  <p class="lead">
+                    Higher Secondary School Certificate<br>
+                   -Adamjee Cantonment College<br>
+                    •2015
+                  </p>
+                  <p class="lead">
+                     Secondary School Certificate<br>
+                    -BAF Shaheen School<br>
+                    •2013
+                  </p>
+
                 </div>
               </div>
             </div>
