@@ -23,39 +23,23 @@
                   </div>
                 </div>
                 <div class="skill-mf">
-                  <p class="title-s">Skill</p>
-                  <span>HTML</span> <span class="pull-right">85%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                  <div class="title-box-2">
+                    <h5 class="title-left">
+                    <p class="title-s">Skill</p>
+                    </h5>
                   </div>
-                  <span>CSS3</span> <span class="pull-right">75%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>PHP</span> <span class="pull-right">50%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>JAVASCRIPT</span> <span class="pull-right">50%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>Vue Js</span> <span class="pull-right">90%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>Technical Documentation</span> <span class="pull-right">90%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>Android Development</span> <span class="pull-right">75%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
-                  <span>Ui/UX Design</span> <span class="pull-right">75%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                  </div>
+
+                  <ul class="customul">
+                    <li class="customli">Laravel </li>
+                    <li class="customli">PHP </li>
+                    <li class="customli">JAVASCRIPT </li>
+                    <li class="customli">Vue </li>
+                    <li class="customli">Technical Documentation</li>
+                    <li class="customli">Android Development</li>
+                    <li class="customli">Ui/UX Design</li>
+                    <li class="customli">Machine Learning</li>
+                  </ul>
+
                 </div>
               </div>
               <div class="col-md-6">
@@ -112,6 +96,9 @@
 </template>
 
 <script>
+
+
+
 export default {
   name: "AboutComponent",
 

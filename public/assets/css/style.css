@@ -1482,3 +1482,45 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+.customul {
+  width: 80%;
+  margin-top: 15px;
+  left: 7%;
+
+}
+
+.customli {
+  position: relative;
+  display: block;
+  border: 1px solid #6982ff;
+  margin-bottom: 5px;
+  padding: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  animation: fadeIn 2.5s linear;
+  animation-fill-mode: both;
+  border-radius: 10px;
+}
+
+.customli:hover{
+  background-color: #7278ef;
+  color: white;
+  cursor: pointer;
+}
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+    top: 100px;
+  }
+  75% {
+    opacity: 0.5;
+    top: 0px;
+  }
+  100% {
+    opacity: 1;
+  }
+}

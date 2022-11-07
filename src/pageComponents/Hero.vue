@@ -12,7 +12,7 @@
 
 
 
-          <h1 class="hero-title mb-2">I am Nahin Ahmed</h1> <br>
+          <h1 class="hero-title mb-2">I am Ahmed Nur-A-Jalal (Nahin)</h1> <br>
 <!--          <p class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Photographer"></span></p>-->
           <p class="hero-subtitle">
             <span class="typed-text">{{ typeValue }}</span>
