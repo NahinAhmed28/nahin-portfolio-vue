@@ -28,6 +28,7 @@
                     <p class="title-s">Skill</p>
                     </h5>
                   </div>
+                  <div v-animate-onscroll="{down: 'animated flip', up: 'animated rotateOut' }">Animate me upon scroll forever</div>
 
                   <ul class="customul ">
                     <div class="square-animation">
@@ -94,12 +95,14 @@
         </div>
       </div>
     </div>
-  </section><!-- End About Section -->
+  </section>
+  <!-- End About Section -->
+
+
+
 </template>
 
 <script>
-
-
 
 export default {
   name: "AboutComponent",

@@ -11,7 +11,9 @@
     "core-js": "^3.8.3",
     "gsap": "^3.11.3",
     "vue": "^3.2.13",
-    "vue-plugin-load-script": "^2.x.x"
+    "vue-animate-onscroll": "^1.0.8",
+    "vue-plugin-load-script": "^2.x.x",
+    "vue3-animate-onscroll": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
