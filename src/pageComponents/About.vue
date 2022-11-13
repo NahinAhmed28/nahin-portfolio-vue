@@ -28,30 +28,32 @@
                     <p class="title-s">Skill</p>
                     </h5>
                   </div>
-                  <div v-animate-onscroll="{down: 'animated flip', up: 'animated rotateOut' }">Animate me upon scroll forever</div>
-
-                  <ul class="customul ">
-                    <div class="square-animation">
-                    <li class="customli ">Laravel </li>
-                    <li class="customli ">PHP </li>
-                    <li class="customli">JAVASCRIPT </li>
-                    <li class="customli">Vue </li>
-                    <li class="customli">Technical Documentation</li>
-                    <li class="customli">Android Development</li>
-                    <li class="customli">Ui/UX Design</li>
-                    <li class="customli">Machine Learning</li>
-                    </div>
-                  </ul>
-
+                  <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
+                    <ul class="customul ">
+                      <div class="square-animation">
+                        <li class="customli ">Laravel </li>
+                        <li class="customli ">PHP </li>
+                        <li class="customli">JAVASCRIPT </li>
+                        <li class="customli">Vue </li>
+                        <li class="customli">Technical Documentation</li>
+                        <li class="customli">Android Development</li>
+                        <li class="customli">Ui/UX Design</li>
+                        <li class="customli">Machine Learning</li>
+                      </div>
+                    </ul>
+                  </div>
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="about-me pt-4 pt-md-0">
-                  <div class="title-box-2">
-                    <h5 class="title-left">
-                      Experience
-                    </h5>
-                  </div>
+
+                  <div class="about-me pt-4 pt-md-0">
+                    <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
+                      <div class="title-box-2">
+                        <h5 class="title-left">
+                          Experience
+                        </h5>
+                      </div>
+                    </div>
                   <p class="lead">
                     <i class="bi bi-card-checklist text-success"></i> <strong>  October,2021–Current - (1 year)</strong> <br>
                     Junior Web Developer <br>
@@ -87,14 +89,13 @@
                     <i class="bi bi-bookmarks"></i>BAF Shaheen School<br>
                     •2013
                   </p>
-
+                </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
   </section>
   <!-- End About Section -->
 

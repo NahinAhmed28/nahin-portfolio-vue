@@ -17,7 +17,9 @@
       </div>
       <div class="row">
         <div class="col-md-4">
-          <div class="service-box">
+          <div v-animate-onscroll.repeat="{down: 'animated flipInY'}">
+            <div class="service-box">
+
             <div class="service-ico">
               <span class="ico-circle"><i class="bi bi-briefcase"></i></span>
             </div>
@@ -28,9 +30,11 @@
               </p>
             </div>
           </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <div class="service-box">
+          <div v-animate-onscroll.repeat="{down: 'animated flipInY'}">
+            <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="bi bi-card-checklist"></i></span>
             </div>
@@ -41,9 +45,11 @@
               </p>
             </div>
           </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <div class="service-box">
+          <div v-animate-onscroll.repeat="{down: 'animated flipInY'}">
+            <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
             </div>
@@ -54,9 +60,11 @@
               </p>
             </div>
           </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <div class="service-box">
+          <div v-animate-onscroll.repeat="{down: 'animated flipInY'}">
+            <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="bi bi-binoculars"></i></span>
             </div>
@@ -67,9 +75,11 @@
               </p>
             </div>
           </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <div class="service-box">
+          <div v-animate-onscroll.repeat="{down: 'animated flipInY'}">
+            <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="bi bi-brightness-high"></i></span>
             </div>
@@ -80,9 +90,11 @@
               </p>
             </div>
           </div>
+          </div>
         </div>
         <div class="col-md-4">
-          <div class="service-box">
+          <div v-animate-onscroll.repeat="{down: 'animated flipInY'}">
+            <div class="service-box">
             <div class="service-ico">
               <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
             </div>
@@ -92,6 +104,7 @@
                Prominent skill on Technical Documentation writing.
               </p>
             </div>
+          </div>
           </div>
         </div>
       </div>
