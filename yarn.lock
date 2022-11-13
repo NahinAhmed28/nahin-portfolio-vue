@@ -4097,6 +4097,11 @@
   dependencies:
     "semver" "^6.0.0"
 
+"mdb-vue-ui-kit@^3.1.0":
+  "integrity" "sha512-oUoXke83SKWrZ8UARkMrIrhzy8Gi14NkXMGMoAr8nDMkP+KymI379pNPd+5DAXn9aqVQDqZw9x4y204M6iIJ0w=="
+  "resolved" "https://registry.npmjs.org/mdb-vue-ui-kit/-/mdb-vue-ui-kit-3.1.0.tgz"
+  "version" "3.1.0"
+
 "mdn-data@2.0.14":
   "integrity" "sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow=="
   "resolved" "https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz"

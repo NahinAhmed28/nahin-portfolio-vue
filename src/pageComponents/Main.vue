@@ -65,11 +65,11 @@
                         Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis
                         mollitia inventore?
                       </p>
-                      <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> Mirpur, East-Kazipara, Dhaka,1216</li>
-                        <li><span class="bi bi-phone"></span> +8801521332113</li>
-                        <li><span class="bi bi-envelope"></span> nahin.ahmed28@gmail.com</li>
-                      </ul>
+                        <ul class="list-ico">
+                          <li><span class="bi bi-geo-alt"></span> Mirpur, East-Kazipara, Dhaka,1216</li>
+                          <li><span class="bi bi-phone"></span> +8801521332113</li>
+                          <li><span class="bi bi-envelope"></span> nahin.ahmed28@gmail.com</li>
+                        </ul>
                     </div>
                     <div class="socials">
                       <ul>
