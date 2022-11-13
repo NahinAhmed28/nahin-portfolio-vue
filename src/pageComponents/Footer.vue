@@ -14,7 +14,7 @@
               Licensing information: https://bootstrapmade.com/license/
               Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
             -->
-              Designed by <a href="https://bootstrapmade.com/">NahinAhmed</a> with <i class="bi-heart-fill"> </i> and <i class="bi-emoji-kiss"> </i>
+              Designed by NahinAhmed with <i class="bi-heart-fill"> </i> and Vue3
             </div>
           </div>
         </div>

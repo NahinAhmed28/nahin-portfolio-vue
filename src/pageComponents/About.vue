@@ -29,7 +29,7 @@
                     </h5>
                   </div>
                   <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
-                    <ul class="customul ">
+                    <ul class="customul">
                       <div class="square-animation">
                         <li class="customli ">Laravel </li>
                         <li class="customli ">PHP </li>
@@ -45,7 +45,6 @@
                 </div>
               </div>
               <div class="col-md-6">
-
                   <div class="about-me pt-4 pt-md-0">
                     <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
                       <div class="title-box-2">
@@ -69,26 +68,28 @@
                     Machine Learning Intern<br>
                     <i class="bi bi-droplet-half text-primary"></i> Deepsight AI
                   </p>
-                  <div class="title-box-2">
-                  <h5 class="title-left">
-                    Education
-                  </h5>
-                  </div>
-                  <p class="lead">
-                    <i class="bi bi-box-arrow-in-left text-warning"></i> BSc in CSE<br>
-                    <i class="bi bi-bookmarks"></i> Daffodil International University<br>
-                    •2020
-                  </p>
-                  <p class="lead">
-                    <i class="bi bi-box-arrow-in-left text-warning"></i> Higher Secondary School Certificate<br>
-                    <i class="bi bi-bookmarks"></i>Adamjee Cantonment College<br>
-                    •2015
-                  </p>
-                  <p class="lead">
-                    <i class="bi bi-box-arrow-in-left text-warning"></i> Secondary School Certificate<br>
-                    <i class="bi bi-bookmarks"></i>BAF Shaheen School<br>
-                    •2013
-                  </p>
+                    <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
+                      <div class="title-box-2">
+                      <h5 class="title-left">
+                        Education
+                      </h5>
+                      </div>
+                    </div>
+                      <p class="lead">
+                        <i class="bi bi-box-arrow-in-left text-warning"></i> BSc in CSE<br>
+                        <i class="bi bi-bookmarks"></i> Daffodil International University<br>
+                        •2020
+                      </p>
+                      <p class="lead">
+                        <i class="bi bi-box-arrow-in-left text-warning"></i> Higher Secondary School Certificate<br>
+                        <i class="bi bi-bookmarks"></i>Adamjee Cantonment College<br>
+                        •2015
+                      </p>
+                      <p class="lead">
+                        <i class="bi bi-box-arrow-in-left text-warning"></i> Secondary School Certificate<br>
+                        <i class="bi bi-bookmarks"></i>BAF Shaheen School<br>
+                        •2013
+                      </p>
                 </div>
                 </div>
               </div>
