@@ -39,6 +39,7 @@
                         <li class="customli">Android Development</li>
                         <li class="customli">Ui/UX Design</li>
                         <li class="customli">Machine Learning</li>
+                        <li class="customli">Responsive Webpage Design & Development</li>
                       </div>
                     </ul>
                   </div>
@@ -46,13 +47,11 @@
               </div>
               <div class="col-md-6">
                   <div class="about-me pt-4 pt-md-0">
-                    <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
-                      <div class="title-box-2">
+                    <div class="title-box-2">
                         <h5 class="title-left">
                           Experience
                         </h5>
                       </div>
-                    </div>
                   <p class="lead">
                     <i class="bi bi-card-checklist text-success"></i> <strong>  October,2021–Current - (1 year)</strong> <br>
                     Junior Web Developer <br>
@@ -68,24 +67,22 @@
                     Machine Learning Intern<br>
                     <i class="bi bi-droplet-half text-primary"></i> Deepsight AI
                   </p>
-                    <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
-                      <div class="title-box-2">
+                    <div class="title-box-2">
                       <h5 class="title-left">
                         Education
                       </h5>
                       </div>
-                    </div>
-                      <p class="lead">
+                    <p class="lead">
                         <i class="bi bi-box-arrow-in-left text-warning"></i> BSc in CSE<br>
                         <i class="bi bi-bookmarks"></i> Daffodil International University<br>
                         •2020
                       </p>
-                      <p class="lead">
+                    <p class="lead">
                         <i class="bi bi-box-arrow-in-left text-warning"></i> Higher Secondary School Certificate<br>
                         <i class="bi bi-bookmarks"></i>Adamjee Cantonment College<br>
                         •2015
                       </p>
-                      <p class="lead">
+                    <p class="lead">
                         <i class="bi bi-box-arrow-in-left text-warning"></i> Secondary School Certificate<br>
                         <i class="bi bi-bookmarks"></i>BAF Shaheen School<br>
                         •2013
