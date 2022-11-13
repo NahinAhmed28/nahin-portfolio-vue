@@ -1,11 +1,12 @@
 <template>
   <main id="main">
-
     <!-- ======= Contact Section ======= -->
+
     <section id="contact" class="paralax-mf footer-paralax bg-image sect-mt4 route" :style="{'background-image': 'url(/assets/img/overlay-bg.jpg)'}">
       <div class="overlay-mf"></div>
       <div class="container">
-        <div class="row">
+        <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
+          <div class="row">
           <div class="col-sm-12">
             <div class="contact-mf">
               <div id="contact" class="box-shadow-full">
@@ -83,6 +84,7 @@
               </div>
             </div>
           </div>
+        </div>
         </div>
       </div>
     </section><!-- End Contact Section -->
