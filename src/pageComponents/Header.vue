@@ -41,9 +41,14 @@
 </template>
 
 <script>
+
+
 export default {
 
-  name: "HeaderComponent"
+  name: "HeaderComponent",
+  mounted() {
+    // nav();
+  }
 }
 </script>
 
