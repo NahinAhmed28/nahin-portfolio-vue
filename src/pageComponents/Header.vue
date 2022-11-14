@@ -1,6 +1,6 @@
 <template>
   <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top">
+  <header id="header" class="fixed-top" style="background-color: rgba(0,0,0,0.91)">
     <div class="container d-flex align-items-center justify-content-between">
 
       <h1 class="logo"><a href="index.html">DevFolio</a></h1>
