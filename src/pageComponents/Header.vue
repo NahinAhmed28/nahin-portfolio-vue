@@ -38,7 +38,6 @@ export default {
     },
     async scrollto(){
       const navbar = document.querySelector('#navbar')
-
       if (navbar.classList.contains('navbar-mobile')) {
         navbar.classList.remove('navbar-mobile')
       }
