@@ -34,12 +34,7 @@
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
 <!--        <i class="bi bi-list mobile-nav-toggle"></i>-->
-        <i id="mobileButton" class="bi bi-list mobile-nav-toggle" onclick="function worker(){
-          const nav = document.querySelector('#navbar')
-          const btn = document.querySelector('#mobileButton')
-          nav.classList.toggle('navbar-mobile')
-          btn.classList.toggle('bi-x')
-        };worker()"></i>
+        <i id="mobileButton" class="bi bi-list mobile-nav-toggle"  @click="worker()"></i>
       </nav><!-- .navbar -->
 
     </div>
@@ -52,8 +47,17 @@
 export default {
 
   name: "HeaderComponent",
-  mounted() {
-    // nav();
+  methods:  {
+    async worker(){
+      const nav = document.querySelector('#navbar')
+      const btn = document.querySelector('#mobileButton')
+      nav.classList.toggle('navbar-mobile')
+      btn.classList.toggle('bi-x')
+    }
+
+  },
+  created(){
+    this.worker();
   }
 }
 </script>
