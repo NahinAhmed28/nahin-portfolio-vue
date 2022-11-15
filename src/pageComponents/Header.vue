@@ -33,7 +33,13 @@
 <!--          </li>-->
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
+<!--        <i class="bi bi-list mobile-nav-toggle"></i>-->
+        <i id="mobileButton" class="bi bi-list mobile-nav-toggle" onclick="function worker(){
+          const nav = document.querySelector('#navbar')
+          const btn = document.querySelector('#mobileButton')
+          nav.classList.toggle('navbar-mobile')
+          btn.classList.toggle('bi-x')
+        };worker()"></i>
       </nav><!-- .navbar -->
 
     </div>
