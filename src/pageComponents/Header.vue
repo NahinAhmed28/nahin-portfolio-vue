@@ -16,7 +16,7 @@
           <li><a class="nav-link scrollto " href="#blog">Courses</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
-<!--        <i class="bi bi-list mobile-nav-toggle"></i>-->
+
         <i id="mobileButton" class="bi bi-list mobile-nav-toggle"  @click="worker()"></i>
       </nav><!-- .navbar -->
 
@@ -25,7 +25,6 @@
 </template>
 
 <script>
-
 
 export default {
 
