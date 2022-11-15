@@ -9,12 +9,12 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#work">Work</a></li>
-          <li><a class="nav-link scrollto " href="#blog">Courses</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto active" href="#hero" @click="scrollto()">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about" @click="scrollto()">About</a></li>
+          <li><a class="nav-link scrollto" href="#services" @click="scrollto()">Services</a></li>
+          <li><a class="nav-link scrollto " href="#work" @click="scrollto()">Work</a></li>
+          <li><a class="nav-link scrollto " href="#blog" @click="scrollto()">Courses</a></li>
+          <li><a class="nav-link scrollto" href="#contact" @click="scrollto()">Contact</a></li>
         </ul>
 
         <i id="mobileButton" class="bi bi-list mobile-nav-toggle"  @click="worker()"></i>
@@ -35,11 +35,19 @@ export default {
       const btn = document.querySelector('#mobileButton')
       nav.classList.toggle('navbar-mobile')
       btn.classList.toggle('bi-x')
+    },
+    async scrollto(){
+      const navbar = document.querySelector('#navbar')
+
+      if (navbar.classList.contains('navbar-mobile')) {
+        navbar.classList.remove('navbar-mobile')
+      }
     }
 
   },
   created(){
     this.worker();
+    this.scrollto();
   }
 }
 </script>
