@@ -24,7 +24,7 @@
               </div>
               <div class="counter-num">
 <!--                <p data-purecounter-start="0" data-purecounter-end="25" data-purecounter-duration="1" class="counter purecounter"></p>-->
-                <p class="counter purecounter">{{ tweened2.toFixed(0) }}</p>
+                <p class="counter purecounter"  v-on:scroll.passive="scrollFunction">{{ tweened2.toFixed(0) }}</p>
                 <span class="counter-text">YEARS OF EXPERIENCE</span>
               </div>
             </div>
@@ -32,11 +32,11 @@
           <div class="col-sm-3 col-lg-3">
             <div class="counter-box pt-4 pt-md-0">
               <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-people"></i></span>
+                <span class="ico-circle"  v-on:scroll.passive="scrollFunction"><i class="bi bi-people"></i></span>
               </div>
               <div class="counter-num">
 <!--                <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" class="counter purecounter"></p>-->
-                <p class="counter purecounter">{{ tweened1.toFixed(0) }}</p>
+                <p class="counter purecounter"  v-on:scroll="scrollFunction">{{ tweened1.toFixed(0) }}</p>
                 <span class="counter-text">TOTAL CLIENTS</span>
               </div>
             </div>
@@ -48,8 +48,7 @@
               </div>
               <div class="counter-num">
 <!--                <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" class="counter purecounter"></p>-->
-<!--                Type a number: <input v-model.number="number" />-->
-                <p class="counter purecounter">{{ tweened.toFixed(0) }}</p>
+                <p class="counter purecounter"  v-on:scroll.passive="scrollFunction">{{ tweened.toFixed(0) }}</p>
                 <span>AWARD WON</span>
               </div>
             </div>
@@ -62,15 +61,12 @@
 </template>
 
 <script>
-import gsap from 'gsap'
+import gsap from 'gsap';
+
+
+
 export default {
   name: "CounterComponent",
-  created(n) {
-      gsap.to(this, {duration: 30, tweened: Number(n) || 0}),
-      gsap.to(this, {duration: 30, tweened1: Number(n) || 10}),
-      gsap.to(this, {duration: 30, tweened2: Number(n) || 2}),
-      gsap.to(this, {duration: 30, tweened3: Number(n) || 15})
-  },
   data() {
     return {
       number: 0,
@@ -80,6 +76,21 @@ export default {
       tweened3: 0,
     }
   },
+  created() {
+    window.addEventListener("scroll", this.handleScroll);
+
+  },
+  methods:{
+    handleScroll: function(n) {
+          gsap.to(this, {duration: 5, tweened: Number(n) || 5}),
+          gsap.to(this, {duration: 5, tweened1: Number(n) || 8}),
+          gsap.to(this, {duration: 5, tweened2: Number(n) || 3}),
+          gsap.to(this, {duration: 5, tweened3: Number(n) || 20})
+    },
+
+  },
+
+
   // watch: {
   //   number: function (n) {
   //     gsap.to(this, {duration: 0.5, tweened: Number(n) || 0})

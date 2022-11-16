@@ -4,6 +4,9 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+import {PureCounter} from "../vendor/purecounter/purecounter_vanilla";
+
 (function() {
   "use strict";
 
