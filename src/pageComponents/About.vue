@@ -28,7 +28,7 @@
                     <p class="title-s">Skill</p>
                     </h5>
                   </div>
-                  <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
+                  <div v-animate-onscroll.repeat="{down: 'animated lightSpeedIn',}">
                     <ul class="customul" href="#services">
                       <div class="square-animation">
                         <li class="customli"><a class="nav-link scrollto active" href="#services" >Laravel</a> </li>

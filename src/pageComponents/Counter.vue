@@ -1,10 +1,10 @@
 <template>
   <main id="main">
     <!-- ======= Counter Section ======= -->
-    <div class="section-counter paralax-mf bg-image" :style="{'background-image': 'url(/assets/img/counters-bg.jpg)'}">
+    <div class="section-counter paralax-mf bg-image" :style="{'background-image': 'url(/assets/img/counters-bg.jpg)'}" >
       <div class="overlay-mf"></div>
       <div class="container position-relative">
-        <div class="row">
+        <div class="row" v-on:scroll="handleScroll">
           <div class="col-sm-3 col-lg-3">
             <div class="counter-box counter-box pt-4 pt-md-0">
               <div class="counter-ico">
@@ -75,8 +75,8 @@ export default {
     }
   },
   created() {
-    window.addEventListener("scroll", this.handleScroll);
-
+    // window.addEventListener("scroll", this.handleScroll);
+    this.handleScroll()
   },
   methods:{
     handleScroll: function(n) {

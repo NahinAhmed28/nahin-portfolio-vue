@@ -1502,8 +1502,8 @@ footer .credits a {
   padding: 10px;
   text-align: center;
   text-transform: uppercase;
-  animation: fadeIn 5s linear;
-  animation-fill-mode: both;
+  /*animation: fadeIn 5s linear;*/
+  /*animation-fill-mode: both;*/
   border-radius: 10px;
   width: 80%;
 
