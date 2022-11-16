@@ -45,6 +45,8 @@
                   </div>
                 </div>
               </div>
+
+
               <div class="col-md-6">
                   <div class="about-me pt-4 pt-md-0">
                     <div class="title-box-2">
