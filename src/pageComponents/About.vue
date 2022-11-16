@@ -29,17 +29,17 @@
                     </h5>
                   </div>
                   <div v-animate-onscroll.repeat="{down: 'animated zoomInUp'}">
-                    <ul class="customul">
+                    <ul class="customul" href="#services">
                       <div class="square-animation">
-                        <li class="customli ">Laravel </li>
-                        <li class="customli ">PHP </li>
-                        <li class="customli">JAVASCRIPT </li>
-                        <li class="customli">Vue </li>
-                        <li class="customli">Technical Documentation</li>
-                        <li class="customli">Android Development</li>
-                        <li class="customli">Ui/UX Design</li>
-                        <li class="customli">Machine Learning</li>
-                        <li class="customli">Responsive Webpage Design & Development</li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Laravel</a> </li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >PHP</a> </li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >JAVASCRIPT</a> </li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Vue</a> </li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Technical Documentation</a></li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Android Development</a></li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Ui/UX Design</a></li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Machine Learning</a></li>
+                        <li class="customli"><a class="nav-link scrollto active" href="#services" >Responsive Webpage Design & Development</a></li>
                       </div>
                     </ul>
                   </div>
@@ -80,17 +80,19 @@
                     </div>
                     <p class="lead">
                       <i class="bi bi-box-arrow-in-left text-warning"></i> <strong>BSc in CSE</strong><br>
-                        <i class="bi bi-bookmarks text-info"></i> Daffodil International University<br>
+                      <i class="bi bi-bookmarks text-info"></i><span class="text-warning" style="font-weight: bold"> Daffodil International University</span><br>
                       <i class="bi bi-bookmark-star text-primary"></i>2020
                       </p>
+                    <hr style="height:2px; width:50%; border-width:0; color:red; background-color:deepskyblue">
                     <p class="lead">
                         <i class="bi bi-box-arrow-in-left text-warning"></i><strong> Higher Secondary School Certificate</strong><br>
-                        <i class="bi bi-bookmarks text-info"></i>Adamjee Cantonment College<br>
+                      <i class="bi bi-bookmarks text-info"></i><span class="text-warning" style="font-weight: bold">Adamjee Cantonment College</span><br>
                       <i class="bi bi-bookmark-star text-primary"></i>2015
                       </p>
+                    <hr style="height:2px; width:50%; border-width:0; color:red; background-color:deepskyblue">
                     <p class="lead">
                         <i class="bi bi-box-arrow-in-left text-warning"></i> <strong> Secondary School Certificate </strong><br>
-                        <i class="bi bi-bookmarks text-info"></i>BAF Shaheen School<br>
+                      <i class="bi bi-bookmarks text-info"></i><span class="text-warning" style="font-weight: bold">BAF Shaheen School</span><br>
                       <i class="bi bi-bookmark-star text-primary"></i>2013
                       </p>
                 </div>
@@ -165,6 +167,17 @@
 
 export default {
   name: "AboutComponent",
+  // methods: {
+  //   async takeToService() {
+  //     const nav = document.querySelector('#navbar')
+  //     const btn = document.querySelector('#mobileButton')
+  //     nav.classList.toggle('navbar-mobile')
+  //     btn.classList.toggle('bi-x')
+  //   },
+  // },
+  // created() {
+  //   this.takeToService();
+  // }
 
 };
 
