@@ -54,36 +54,40 @@
                       </div>
                   <p class="lead">
                     <i class="bi bi-card-checklist text-success"></i> <strong>  October,2021–Current - (1 year)</strong> <br>
-                    Junior Web Developer <br>
-                    <i class="bi bi-droplet-half text-primary"></i> Multimedia Communication and Company (MCC) Ltd
+                    <i class="bi bi-octagon text-primary"></i> Junior Web Developer (Full-Stack) <br>
+                    <i class="bi bi-map"></i> <span class="text-warning" style="font-weight: bold"> Multimedia Content and Communication (MCC) Ltd</span>
                   </p>
-                  <p class="lead">
+                    <hr style="height:2px; width:50%; border-width:0; color:red; background-color:deepskyblue">
+
+                    <p class="lead">
                     <i class="bi bi-card-checklist text-success"></i> <strong>April, 2021–October, 2021 - (6 months)</strong><br>
-                    Web Frontend- Vue.js Developer<br>
-                    <i class="bi bi-droplet-half text-primary"></i> Techtrioz Solution
+                    <i class="bi bi-octagon text-primary"></i> Web Frontend- Vue.js Developer<br>
+                    <i class="bi bi-map text-primary"></i><span class="text-warning" style="font-weight: bold"> Techtrioz Solution </span>
                   </p>
+                    <hr style="height:2px; width:50%; border-width:0; color:red; background-color:deepskyblue">
+
                   <p class="lead">
                     <i class="bi bi-card-checklist text-success"></i> <strong>October, 2020 –December, 2020 - (3 months)</strong> <br>
-                    Machine Learning Intern<br>
-                    <i class="bi bi-droplet-half text-primary"></i> Deepsight AI
+                    <i class="bi bi-octagon text-primary"></i> Machine Learning Intern<br>
+                    <i class="bi bi-map text-primary"></i> <span class="text-warning" style="font-weight: bold"> Deepsight AI </span>
                   </p>
-                    <div class="title-box-2">
+                    <div class="title-box-2" style="margin-top: 3rem">
                       <h5 class="title-left">
                         Education
                       </h5>
-                      </div>
+                    </div>
                     <p class="lead">
-                        <i class="bi bi-box-arrow-in-left text-warning"></i> BSc in CSE<br>
+                      <i class="bi bi-box-arrow-in-left text-warning"></i> <strong>BSc in CSE</strong><br>
                         <i class="bi bi-bookmarks"></i> Daffodil International University<br>
                         •2020
                       </p>
                     <p class="lead">
-                        <i class="bi bi-box-arrow-in-left text-warning"></i> Higher Secondary School Certificate<br>
+                        <i class="bi bi-box-arrow-in-left text-warning"></i><strong> Higher Secondary School Certificate</strong><br>
                         <i class="bi bi-bookmarks"></i>Adamjee Cantonment College<br>
                         •2015
                       </p>
                     <p class="lead">
-                        <i class="bi bi-box-arrow-in-left text-warning"></i> Secondary School Certificate<br>
+                        <i class="bi bi-box-arrow-in-left text-warning"></i> <strong> Secondary School Certificate </strong><br>
                         <i class="bi bi-bookmarks"></i>BAF Shaheen School<br>
                         •2013
                       </p>
