@@ -70,10 +70,10 @@
                     </div>
                     <div class="socials">
                       <ul>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>
-                        <li><a href=""><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
+<!--                        <li><a href=""><span class="ico-circle"><i class="bi bi-facebook"></i></span></a></li>-->
+<!--                        <li><a href=""><span class="ico-circle"><i class="bi bi-instagram"></i></span></a></li>-->
+<!--                        <li><a href=""><span class="ico-circle"><i class="bi bi-twitter"></i></span></a></li>-->
+                        <li><a href="https://www.linkedin.com/in/ahmed-nur-a-jalal-b025341a5/"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
                       </ul>
                     </div>
                   </div>
