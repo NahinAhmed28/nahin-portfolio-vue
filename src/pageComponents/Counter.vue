@@ -48,7 +48,7 @@
               </div>
               <div class="counter-num">
 <!--                <p data-purecounter-start="0" data-purecounter-end="550" data-purecounter-duration="1" class="counter purecounter"></p>-->
-                <p class="counter purecounter"  v-on:scroll.passive="scrollFunction">{{ tweened.toFixed(0) }}</p>
+                <p class="counter purecounter"  v-on:scroll="scrollFunction">{{ tweened.toFixed(0) }}</p>
                 <span>AWARD WON</span>
               </div>
             </div>
@@ -62,8 +62,6 @@
 
 <script>
 import gsap from 'gsap';
-
-
 
 export default {
   name: "CounterComponent",
@@ -86,6 +84,9 @@ export default {
           gsap.to(this, {duration: 5, tweened1: Number(n) || 8}),
           gsap.to(this, {duration: 5, tweened2: Number(n) || 3}),
           gsap.to(this, {duration: 5, tweened3: Number(n) || 20})
+    },
+    destroyed () {
+      window.removeEventListener('scroll', this.handleScroll);
     },
 
   },
