@@ -86,7 +86,7 @@ export default {
           gsap.to(this, {duration: 5, tweened3: Number(n) || 20})
     },
     destroyed () {
-      window.removeEventListener('scroll', this.handleScroll);
+      // window.removeEventListener('scroll', this.handleScroll);
     },
 
   },
