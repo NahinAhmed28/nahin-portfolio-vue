@@ -10,7 +10,7 @@
               Projects
             </h3>
             <p class="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Personal and Professional Projects
             </p>
             <div class="line-mf"></div>
           </div>
@@ -21,20 +21,20 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/work-1.jpg" alt="" class="img-fluid">
+                <img src="../../public/assets/img/wateraid.png" alt="" class="img-fluid">
               </div>
             </a>
             <div class="work-content">
               <div class="row">
                 <div class="col-sm-8">
-                  <h2 class="w-title">Lorem impsum dolor</h2>
+                  <h2 class="w-title">WaterAid-Bangladesh Digital Content Management</h2>
                   <div class="w-more">
-                    <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                    <span class="w-ctegory">Web Development</span> / <span class="w-date"><a href=""></a>Laravel</span>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="w-like">
-                    <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    <a href="https://wateraid-bd.digitaluservice.org/"> <span class="bi bi-info-circle"></span></a>
                   </div>
                 </div>
               </div>
@@ -45,20 +45,20 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/work-2.jpg" alt="" class="img-fluid">
+                <img src="../../public/assets/img/dynamics.png" alt="" class="img-fluid">
               </div>
             </a>
             <div class="work-content">
               <div class="row">
                 <div class="col-sm-8">
-                  <h2 class="w-title">Loreda Cuno Nere</h2>
+                  <h2 class="w-title">Dynamic Content & Image Based Blog </h2>
                   <div class="w-more">
-                    <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                    <span class="w-ctegory">Web Design</span> / <span class="w-date">Laravel</span>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="w-like">
-                    <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    <a href="https://projects.itsebd.com/dynamic-image/public/dashboard"> <span class="bi bi-info-circle"></span></a>
                   </div>
                 </div>
               </div>
@@ -69,20 +69,20 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/work-3.jpg" alt="" class="img-fluid">
+                <img src="../../public/assets/img/HRM.png" alt="" class="img-fluid">
               </div>
             </a>
             <div class="work-content">
               <div class="row">
                 <div class="col-sm-8">
-                  <h2 class="w-title">Mavrito Lana Dere</h2>
+                  <h2 class="w-title">HR Management System</h2>
                   <div class="w-more">
-                    <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                    <span class="w-ctegory">Web Development</span> / <span class="w-date">Laravel</span>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="w-like">
-                    <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    <a href="https://projects.itsebd.com/hrm-final/public/admin/departments"> <span class="bi bi-info-circle"></span></a>
                   </div>
                 </div>
               </div>
@@ -93,20 +93,20 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/work-4.jpg" alt="" class="img-fluid">
+                <img src="../../public/assets/img/BDPolice.png" alt="" class="img-fluid">
               </div>
             </a>
             <div class="work-content">
               <div class="row">
                 <div class="col-sm-8">
-                  <h2 class="w-title">Bindo Laro Cado</h2>
+                  <h2 class="w-title">BD Police HelpBox Admin Panel</h2>
                   <div class="w-more">
-                    <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                    <span class="w-ctegory">Web Development</span> / <span class="w-date">Laravel</span>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="w-like">
-                    <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    <a href=""> <span class="bi bi-info-circle"></span></a>
                   </div>
                 </div>
               </div>
@@ -117,20 +117,20 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/work-5.jpg" alt="" class="img-fluid">
+                <img src="../../public/assets/img/ERU.png" alt="" class="img-fluid">
               </div>
             </a>
             <div class="work-content">
               <div class="row">
                 <div class="col-sm-8">
-                  <h2 class="w-title">Studio Lena Mado</h2>
+                  <h2 class="w-title">Bangladesh ERU Vote Result Details Website</h2>
                   <div class="w-more">
-                    <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                    <span class="w-ctegory">Web Design</span> / <span class="w-date">Vue.Js</span>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="w-like">
-                    <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    <a href="https://celadon-taffy-a17afc.netlify.app/"> <span class="bi bi-info-circle"></span></a>
                   </div>
                 </div>
               </div>
@@ -141,20 +141,20 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/work-6.jpg" alt="" class="img-fluid">
+                <img src="../../public/assets/img/Human_Activity.png" alt="" class="img-fluid">
               </div>
             </a>
             <div class="work-content">
               <div class="row">
                 <div class="col-sm-8">
-                  <h2 class="w-title">Studio Big Bang</h2>
+                  <h2 class="w-title">Human Activity Detection</h2>
                   <div class="w-more">
-                    <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2017</span>
+                    <span class="w-ctegory">Machine Learning</span> / <span class="w-date">Image Processing</span>
                   </div>
                 </div>
                 <div class="col-sm-4">
                   <div class="w-like">
-                    <a href="portfolio-details.html"> <span class="bi bi-plus-circle"></span></a>
+                    <a href="https://drive.google.com/file/d/1qAX-H-_u46uN26ARGrdW_jc6TmU0AGvP/view?usp=share_link"> <span class="bi bi-info-circle"></span></a>
                   </div>
                 </div>
               </div>
