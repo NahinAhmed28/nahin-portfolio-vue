@@ -21,7 +21,7 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/wateraid.png" alt="" class="img-fluid">
+                <img src="../../public/assets/img/wateraid.png" alt="" class="img-fluid" style="height: 250px">
               </div>
             </a>
             <div class="work-content">
@@ -45,7 +45,7 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/dynamics.png" alt="" class="img-fluid">
+                <img src="../../public/assets/img/dynamics.png" alt="" class="img-fluid" style="height: 250px;">
               </div>
             </a>
             <div class="work-content">
@@ -69,7 +69,7 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/HRM.png" alt="" class="img-fluid">
+                <img src="../../public/assets/img/HRM.png" alt="" class="img-fluid" style="height: 250px">
               </div>
             </a>
             <div class="work-content">
@@ -93,7 +93,7 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/BDPolice.png" alt="" class="img-fluid">
+                <img src="../../public/assets/img/BDPolice.png" alt="" class="img-fluid" style="height: 250px">
               </div>
             </a>
             <div class="work-content">
@@ -117,7 +117,7 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/ERU.png" alt="" class="img-fluid">
+                <img src="../../public/assets/img/ERU.png" alt="" class="img-fluid my-auto" style="height: 250px">
               </div>
             </a>
             <div class="work-content">
@@ -141,7 +141,7 @@
           <div class="work-box">
             <a href="portfolio-details.html" data-gallery="portfolioGallery" class="portfolio-lightbox">
               <div class="work-img">
-                <img src="../../public/assets/img/Human_Activity.png" alt="" class="img-fluid">
+                <img src="../../public/assets/img/Human_Activity.png" alt="" class="img-fluid" style="height: 250px">
               </div>
             </a>
             <div class="work-content">

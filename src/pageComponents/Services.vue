@@ -99,7 +99,7 @@
               <span class="ico-circle"><i class="bi bi-calendar4-week"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Documentation</h2>
+              <h2 class="s-title">Technical Documentation</h2>
               <p class="s-description text-center">
                Prominent skill on Technical Documentation writing.
               </p>
