@@ -53,3 +53,60 @@ Then open:
 
 - `http://127.0.0.1:8000/` (live Vue portfolio)
 - `http://127.0.0.1:8000/admin/login` (admin)
+
+
+## Debugging `composer install` failure at `@php artisan package:discover` (exit code 255)
+
+A `255` exit code usually means PHP hit a fatal error but Composer only shows the shell exit code.
+Use this checklist to expose the real error and fix it fast:
+
+1. Run Composer with verbose output:
+   ```bash
+   composer install -vvv
+   ```
+2. Run package discovery directly:
+   ```bash
+   php artisan package:discover --ansi
+   ```
+3. If the error is still hidden, force PHP to display startup/runtime errors:
+   ```bash
+   php -d display_errors=1 -d error_reporting=E_ALL artisan package:discover
+   ```
+4. Verify file permissions and stale cache files:
+   ```bash
+   ./scripts/laravel-cleanup.sh
+   ```
+
+### One-command cleanup script
+
+This repo now includes a cleanup helper that:
+- creates `.env` from `.env.example` if missing,
+- generates `APP_KEY` when missing,
+- clears `bootstrap/cache/*.php` and Laravel caches.
+
+Run:
+
+```bash
+./scripts/laravel-cleanup.sh
+```
+
+### Check PHP version vs `composer.json`
+
+This project requires `php: ^8.2`.
+
+```bash
+php -v
+composer check-platform-reqs
+```
+
+If your `php -v` output is lower than `8.2`, switch PHP binaries (or update your PATH) before running Composer.
+
+### Run migrations and seed after dependencies are healthy
+
+After `composer install` succeeds and `.env` is configured:
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+If DB credentials are wrong, update `DB_*` values in `.env` first.
