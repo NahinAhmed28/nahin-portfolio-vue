@@ -26,6 +26,29 @@ npm run build
 php artisan serve
 ```
 
+## Troubleshooting
+
+If you see this error when running an Artisan command:
+
+```text
+Failed opening required '.../vendor/autoload.php'
+```
+
+it means dependencies are not installed yet. From the project root, run:
+
+```bash
+composer install
+```
+
+Then retry:
+
+```bash
+php artisan migrate:fresh --seed
+```
+
+On Windows PowerShell, also make sure you are inside the same folder as `artisan`
+before running the commands.
+
 Then open:
 
 - `http://127.0.0.1:8000/` (live Vue portfolio)
