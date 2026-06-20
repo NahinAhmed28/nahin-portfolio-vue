@@ -1,14 +1,25 @@
 # Nahin Portfolio Vue
 
-Nahin Portfolio Vue is a Vue-based portfolio website. It is intended to present personal work, profile information, projects, and contact details through a modern front-end experience.
+Nahin Portfolio Vue is a Vue-based portfolio website.
 
-## Project Details
+## Features
 
-- Repository: `NahinAhmed28/nahin-portfolio-vue`
-- Default branch: `main`
-- Visibility: public
-- Project type: Vue portfolio website
-- Main focus: personal portfolio and project showcase
+- Personal portfolio presentation
+- Project, profile, skills, and contact sections
+- Vue component-based UI
+- Production build workflow
+
+## Modules
+
+- Profile module: intro, contact, and summary sections
+- Project module: portfolio items, links, and descriptions
+- Skills module: tools, technologies, and experience areas
+- Component module: reusable UI blocks and layout
+- Asset module: images, styles, and static resources
+
+## System Architecture
+
+The project follows a client-side Vue architecture. Components render portfolio sections, local data or API sources can provide project content, and the build system produces static assets for deployment. Hosting can be static or integrated into a backend.
 
 ## Getting Started
 
@@ -18,13 +29,3 @@ cd nahin-portfolio-vue
 npm install
 npm run dev
 ```
-
-Use the production build command before deployment.
-
-```bash
-npm run build
-```
-
-## Notes
-
-Add deployment URL, portfolio sections, screenshots, and content-update instructions as the site evolves.
